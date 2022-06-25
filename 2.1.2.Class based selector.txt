@@ -1,0 +1,27 @@
+<html>
+<head><title>Id based selector</title>
+<style type="text/css">
+ .one{
+    color:blue;
+}
+ .two{
+    font-size:350%
+}
+.note{
+    color:red;
+    background-color:yellow;
+}
+</style>
+
+</head>
+<body>
+      <b class="one two"><u>class based selector:</u></b>
+      <p>The class selector selects HTML elements with a specific class attribute.
+      To select elements with a specific class, write a period (.) character, followed by the class name.</p>
+      <li>You can also specify that only specific HTML elements should be affected by a class.</li>
+      <li>HTML elements can also refer to more than one class.</li>
+      <p class="note">NOTE:A class name cannot start with a number!
+
+
+</body>
+</html>
